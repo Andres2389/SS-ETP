@@ -1,0 +1,50 @@
+body {
+    background-image: url(/img/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0; 
+    padding: 0; 
+    font-family: 'works sans';
+    font-size: 16px;
+    transition: all 3s;
+}
+h1{
+    font-size: 45px;
+    font-weight: 900;
+}
+#form{
+    height: fit-content;
+    padding: 2em;
+    margin:  10em auto;
+    border: 0.5px solid black;
+    width: fit-content;
+
+}
+.form-group{
+    margin: none;
+    padding: 0.5em;
+    width: 20em;
+}
+.form-check{
+   
+    padding: 0.5em;
+    margin-left: 1.5em;
+}
+.btn {
+    background-color: #39A900;
+    border-color: #39A900;
+}
+
+#ingresar{
+    width: 18.8em;
+   margin-left: 0.5em;
+   margin-top: 0.5em;
+}
+#username{
+    padding: 29px;
+    
+}
+#password{
+    padding: 29px;
+    
+}
